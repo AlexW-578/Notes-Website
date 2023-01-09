@@ -6,6 +6,8 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:27:28.885Z
+lastmod: 2023-01-09T01:10:04.724Z
 ---
-Hello
+My University notes.
+
+Please feel free to edit/add any more notes.
