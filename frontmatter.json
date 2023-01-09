@@ -60,5 +60,6 @@
     "Architecture & Operating Systems",
     "Year 1"
   ],
-  "frontMatter.dashboard.openOnStart": true
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.taxonomy.tags": []
 }

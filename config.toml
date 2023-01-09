@@ -38,7 +38,7 @@ enableRobotsTXT = true
   # You can also specify this parameter per page in front matter.
   geekdocRepo = "https://github.com/AlexW-578/Notes-Website"
 
-  geekdocEditPath = ""
+  geekdocEditPath = "edit/main/"
   # (Optional, default false) Display search results with the parent folder as prefix. This
   # option allows you to distinguish between files with the same name in different folders.
   # NOTE: This parameter only applies when 'geekdocSearch = true'.
