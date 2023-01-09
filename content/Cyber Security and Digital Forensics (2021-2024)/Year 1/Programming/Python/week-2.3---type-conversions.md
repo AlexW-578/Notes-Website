@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:25:19.775Z
+lastmod: 2023-01-09T01:24:14.796Z
 ---
+# Type conversions

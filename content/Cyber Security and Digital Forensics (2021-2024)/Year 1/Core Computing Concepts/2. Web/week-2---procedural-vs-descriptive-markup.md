@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:20:25.153Z
+lastmod: 2023-01-09T01:17:18.978Z
 ---
+# Procedural vs Descriptive Markup

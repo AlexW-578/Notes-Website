@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:25:56.603Z
+lastmod: 2023-01-09T01:25:47.747Z
 ---
+# Simple file processing

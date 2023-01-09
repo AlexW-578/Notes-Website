@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:20:43.482Z
+lastmod: 2023-01-09T01:18:10.356Z
 ---
+# Responsive Design and Progressive Enhancement

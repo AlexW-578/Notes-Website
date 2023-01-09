@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:25:22.728Z
+lastmod: 2023-01-09T01:24:24.287Z
 ---
+# Reading user input

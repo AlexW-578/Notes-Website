@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:25:48.287Z
+lastmod: 2023-01-09T01:25:19.545Z
 ---
+# Computing with strings

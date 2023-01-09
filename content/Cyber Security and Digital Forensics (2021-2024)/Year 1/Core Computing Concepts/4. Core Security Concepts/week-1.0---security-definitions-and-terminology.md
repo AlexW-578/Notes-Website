@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:21:32.609Z
+lastmod: 2023-01-09T01:19:19.550Z
 ---
+# Security definitions and terminology

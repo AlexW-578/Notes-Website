@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:26:57.173Z
+lastmod: 2023-01-09T01:27:38.018Z
 ---
+# Top-down design

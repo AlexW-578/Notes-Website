@@ -7,5 +7,6 @@ draft: false
 tags: ""
 categories: ""
 weight: 1
-lastmod: 2023-01-09T00:18:31.688Z
+lastmod: 2023-01-09T01:27:49.850Z
 ---
+# Using lists

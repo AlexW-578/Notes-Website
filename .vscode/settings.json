@@ -11,5 +11,10 @@
             "other": "off"
         },
         "editor.minimap.enabled": false
-    }
+    },
+    "cSpell.words": [
+        "Internetworking",
+        "Interprocess",
+        "Supernetting"
+    ]
 }

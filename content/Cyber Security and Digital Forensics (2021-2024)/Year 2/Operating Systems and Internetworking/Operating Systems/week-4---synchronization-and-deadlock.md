@@ -6,4 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
+lastmod: 2023-01-09T01:33:44.745Z
 ---
+# Synchronization and Deadlock

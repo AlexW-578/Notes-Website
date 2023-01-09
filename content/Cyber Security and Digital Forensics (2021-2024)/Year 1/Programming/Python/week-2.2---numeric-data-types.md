@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:25:17.643Z
+lastmod: 2023-01-09T01:24:07.499Z
 ---
+# Numeric data types

@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:26:27.801Z
+lastmod: 2023-01-09T01:26:32.136Z
 ---
+# Two-way decisions

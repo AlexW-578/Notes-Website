@@ -6,4 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
+lastmod: 2023-01-09T01:29:50.950Z
 ---
+# Windows Forensics

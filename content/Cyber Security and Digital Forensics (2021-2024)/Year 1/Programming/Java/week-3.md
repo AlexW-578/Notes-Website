@@ -6,4 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
+lastmod: 2023-01-09T01:23:05.483Z
 ---
+# Week 3

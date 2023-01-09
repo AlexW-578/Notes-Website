@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:24:54.573Z
+lastmod: 2023-01-09T01:23:46.748Z
 ---
+# Writing Simple Programs

@@ -6,6 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:23:38.387Z
+lastmod: 2023-01-09T01:15:58.492Z
 ---
-Core Computing Concepts
+# Core Computing Concepts

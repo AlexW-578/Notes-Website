@@ -6,6 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:19:37.855Z
+lastmod: 2023-01-09T01:15:45.496Z
 ---
- Architecture and Operating Systems - Maths 
+# Architecture and Operating Systems - Maths 

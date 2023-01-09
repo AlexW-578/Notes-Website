@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:25:39.005Z
+lastmod: 2023-01-09T01:24:59.383Z
 ---
+# Graphics

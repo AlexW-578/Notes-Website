@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:26:01.033Z
+lastmod: 2023-01-09T01:25:59.013Z
 ---
+# A program as a collection of functions

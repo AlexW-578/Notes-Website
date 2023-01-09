@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:26:22.187Z
+lastmod: 2023-01-09T01:26:23.915Z
 ---
+# Using decision structures

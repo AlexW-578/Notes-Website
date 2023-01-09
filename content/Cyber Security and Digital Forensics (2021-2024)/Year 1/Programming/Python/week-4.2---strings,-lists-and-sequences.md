@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:25:50.495Z
+lastmod: 2023-01-09T01:25:26.566Z
 ---
+# Strings, lists and sequences

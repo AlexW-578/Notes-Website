@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:25:44.483Z
+lastmod: 2023-01-09T01:25:09.643Z
 ---
+# Guidelines for writing readable code

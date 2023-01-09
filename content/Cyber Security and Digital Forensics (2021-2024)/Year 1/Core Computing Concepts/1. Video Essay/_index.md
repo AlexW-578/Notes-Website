@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:20:03.791Z
+lastmod: 2023-01-09T01:16:08.585Z
 ---
+# Video Essay

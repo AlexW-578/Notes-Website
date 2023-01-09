@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:26:50.583Z
+lastmod: 2023-01-09T01:27:23.110Z
 ---
+# Python regions

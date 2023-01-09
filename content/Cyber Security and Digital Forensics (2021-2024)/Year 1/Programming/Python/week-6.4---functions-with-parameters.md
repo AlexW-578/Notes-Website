@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:26:13.264Z
+lastmod: 2023-01-09T01:26:09.846Z
 ---
+# Functions with parameters

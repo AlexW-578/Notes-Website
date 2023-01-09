@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:22:30.253Z
+lastmod: 2023-01-09T01:20:23.159Z
 ---
+# Controlling and Managing Risk

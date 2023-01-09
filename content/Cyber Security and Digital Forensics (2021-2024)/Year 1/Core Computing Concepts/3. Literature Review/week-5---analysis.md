@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:21:11.382Z
+lastmod: 2023-01-09T01:19:00.799Z
 ---
+# Analysis

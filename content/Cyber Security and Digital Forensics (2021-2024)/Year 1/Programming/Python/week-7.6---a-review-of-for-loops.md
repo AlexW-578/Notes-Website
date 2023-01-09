@@ -6,5 +6,6 @@ preview: ""
 draft: false
 tags: ""
 categories: ""
-lastmod: 2023-01-08T23:26:33.865Z
+lastmod: 2023-01-09T01:26:47.297Z
 ---
+# A review of for loops
