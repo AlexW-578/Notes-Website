@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://notes.alexw-578.co.uk'
 languageCode = 'en-gb'
 title = 'My University Notes'
 theme = "hugo-geekdoc"
