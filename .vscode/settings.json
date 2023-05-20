@@ -16,5 +16,11 @@
         "Internetworking",
         "Interprocess",
         "Supernetting"
-    ]
+    ],
+    "workbench.editorAssociations": [
+        {
+            "viewType": "vscode.markdown.preview.editor",
+            "filenamePattern": "*.md"
+        }
+    ],
 }

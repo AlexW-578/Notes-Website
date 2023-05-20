@@ -9,9 +9,9 @@ categories: ""
 weight: 1
 lastmod: 2023-01-09T00:16:14.513Z
 ---
-# IAS Computer
-*Put Notes Here
+
+\*Put Notes Here
 
 ## Videos:
-- [IAS Computer](https://youtu.be/XudQeEe3rj0)
 
+- [IAS Computer](https://youtu.be/XudQeEe3rj0)

@@ -8,8 +8,9 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:18:54.836Z
 ---
-# Binary & Logic Gates
-*Put Notes Here
 
-## Videos:
+_Put Notes Here_
+
+## Videos
+
 - [Binary & Logic Gates + Logic.ly](https://youtu.be/xXZP83k1DiM)

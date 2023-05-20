@@ -8,8 +8,9 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:19:03.733Z
 ---
-# Boolean Algebra - Simplification
-*Put Notes Here
 
-## Videos:
+*Put Notes Here*
+
+## Videos
+
 - [Boolean Algebra : Simplification](https://youtu.be/Z9FWioRW61A)

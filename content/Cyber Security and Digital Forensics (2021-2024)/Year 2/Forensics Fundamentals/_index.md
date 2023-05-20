@@ -8,4 +8,5 @@ tags: ""
 categories: ""
 lastmod: 2023-01-09T01:29:38.946Z
 ---
+
 # Forensics Fundamentals

@@ -8,9 +8,10 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:18:49.192Z
 ---
-# Negative Numbers & Signed and Unsigned Binary
-*Put Notes Here
 
-## Videos:
+_Put Notes Here_
+
+## Videos
+
 - [Binary Arithmetic with Negative Numbers](https://youtu.be/olIJZU0x4w4)
 - [Signed and Unsigned Binary Numbers](https://youtu.be/EihWWdbDtck)

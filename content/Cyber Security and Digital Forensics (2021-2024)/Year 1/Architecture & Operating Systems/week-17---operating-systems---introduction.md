@@ -9,8 +9,9 @@ categories: ""
 weight: 1
 lastmod: 2023-01-09T00:16:29.007Z
 ---
-# Operating Systems - Introduction
-*Put Notes Here
+
+\*Put Notes Here
 
 ## Videos:
+
 - [Operating Systems - Introduction](https://youtu.be/TsPC4UhZxZM)

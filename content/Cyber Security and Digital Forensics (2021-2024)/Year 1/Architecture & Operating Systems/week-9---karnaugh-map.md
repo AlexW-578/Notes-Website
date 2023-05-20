@@ -8,10 +8,10 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:19:07.243Z
 ---
-# Karnaugh Map
-*Put Notes Here
 
-## Videos:
+\*Put Notes Here
+
+## Videos
+
 - [Karnaugh Map - Part 1](https://youtu.be/NIELQX6CUK8)
 - [Karnaugh Map - Part 2](https://youtu.be/MQ9wShTfloU)
-

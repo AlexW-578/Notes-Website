@@ -8,8 +8,9 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:18:59.336Z
 ---
-# Boolean Algebra - Laws and Rules
-*Put Notes Here
 
-## Videos:
+*Put Notes Here*
+
+## Videos
+
 - [Boolean Algebra: Laws and Rules](https://youtu.be/JpBo9iLbmqY)

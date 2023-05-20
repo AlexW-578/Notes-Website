@@ -9,8 +9,9 @@ categories: ""
 weight: 1
 lastmod: 2023-01-09T00:16:26.221Z
 ---
-# Computer Memory Systems
-*Put Notes Here
+
+\*Put Notes Here
 
 ## Videos:
+
 - [Computer Memory Systems](https://youtu.be/u-1f2lUKGwY)

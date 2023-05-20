@@ -9,8 +9,7 @@ categories: ""
 weight: 1
 lastmod: 2023-01-09T00:16:17.823Z
 ---
-# Fetch Execute Cycle
 
 ## Videos:
-- [Fetch Execute Cycle](https://youtu.be/XyQsLCAgJsc)
 
+- [Fetch Execute Cycle](https://youtu.be/XyQsLCAgJsc)

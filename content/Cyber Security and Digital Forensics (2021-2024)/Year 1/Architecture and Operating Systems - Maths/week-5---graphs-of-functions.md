@@ -8,9 +8,10 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:19:51.449Z
 ---
-# Graphs of Functions
-*Put Notes Here
+
+\*Put Notes Here
 
 ## Videos:
+
 - [Lecture Recording](https://port-ac-uk.zoom.us/rec/share/FVZXh-4dJ8nA6vWiaK-22x5lPds2nHzZVNVp_nL5xA7OQ_asvH7GE8liUQJL17ng.kqdpsQW4DA15UFBO?startTime=1612792790000)
-*NOT AVALIBLE*
+  _NOT AVALIBLE_

@@ -8,7 +8,7 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:19:56.104Z
 ---
-# Basics of Logic
-*Put Notes Here
+
+\*Put Notes Here
 
 ## Videos:

@@ -11,12 +11,11 @@ categories:
 lastmod: 2023-01-08T23:18:45.452Z
 ---
 
-# Decimal, Binary and Hexadecimal & Binary Arithmetic
-*Put Notes Here
+_Put Notes Here_
 
-## Videos:
+## Videos
+
 - [Playlist](https://youtube.com/playlist?list=PLwXLIF_D-8lboUsoWwqUegnNuDwaieTFd)
 - [Module Introduction](https://youtu.be/g0-gfeJqTQQ)
 - [Decimal, Binary and Hexadecimal](https://youtu.be/Mxj4meBF9ZA)
 - [Binary Arithmetic](https://youtu.be/Y-LlohEqN6g)
-

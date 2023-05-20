@@ -8,14 +8,15 @@ tags: ""
 categories: ""
 weight: 0
 ---
+
 # Passive Information Gathering:
 
-
 ## Active vs Passive:
+
 Passive does not directly engage with the target
 
-
 ## DNS Infomation:
+
 Whois infomation
 Censys / Shodan
 
@@ -25,14 +26,11 @@ Censys / Shodan
 
 ## Physical Information Gathering:
 
-
 ## Google Dorking:
 
 Searching google using google dorks to filter infomation
 `site:port.ac.uk type:pdf` shows all the pdf that have been indexed on the site port.ac.uk
 
-
 ## Resources:
-
 
 ## UOP as a case study:

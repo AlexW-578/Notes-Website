@@ -8,8 +8,9 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:19:47.373Z
 ---
-# Powers and Logarithms
-*Put Notes Here
+
+\*Put Notes Here
 
 ## Videos:
+
 - [Lecture recording](https://drive.google.com/file/d/1Xr98WyuQh5SfZZFqk33OaVMthoXO7d-_/view?usp=sharing)

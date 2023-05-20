@@ -8,8 +8,9 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:19:01.334Z
 ---
-# Boolean Algebra - DeMorgan’s Theorems
-*Put Notes Here
 
-## Videos:
+\*Put Notes Here
+
+## Videos
+
 - [Boolean Algebra: DeMorgan’s Theorems](https://youtu.be/7gAnhE6gbNc)

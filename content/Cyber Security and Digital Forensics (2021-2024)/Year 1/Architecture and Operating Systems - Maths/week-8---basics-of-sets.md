@@ -8,7 +8,7 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:19:58.532Z
 ---
-# Basics of Sets
-*Put Notes Here
+
+\*Put Notes Here
 
 ## Videos:

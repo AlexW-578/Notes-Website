@@ -8,9 +8,10 @@ tags: ""
 categories: ""
 lastmod: 2023-01-08T23:19:49.407Z
 ---
-# Functions and Sequences
-*Put Notes Here
+
+\*Put Notes Here
 
 ## Videos:
+
 - [Lecture Recording](https://port-ac-uk.zoom.us/rec/share/YAiQtwX5I9-oVRf9oFhY0w8hl8NdYmta4McgRGRnR1qxK-_3xBSkOWKIdq4j4mA.ZOlo-Te2uG4hovg1)
-*NOT AVALIBLE*
+  _NOT AVALIBLE_
