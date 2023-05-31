@@ -9,7 +9,15 @@ categories: ""
 weight: 0
 ---
 
-# Active Information Gathering
+| OSI Model    | DoD Model          | TCP/IP Suite of Protocols                       |
+| ------------ | ------------------ | ----------------------------------------------- |
+| 7. Application  | Application (Port) | HTTP(80) / SMTP(25) / Telnet(23) / NNTP(119) |
+| 6. Presentation | ^                  | ^                                            |
+| 5. Session      | ^                  | ^                                            |
+| 4. Transport    | Host to Host       | TCP / UDP                                    |
+| 3. Network      | Internet           | ICMP, IP, ARP                                |
+| 2. DataLink     | Network Access     | Network Devices                              |
+| 1. Physical     | ^                  | ^                                            |
 
 ## Port Numbers:
 
@@ -28,63 +36,71 @@ weight: 0
 
 ### SYN Scan:
 
-Open Port:
-| Client | Connection | Server |
-| ------ | ---------- | ------- |
-| SYN | -> | |
-| | <- | SYN-ACK |
-| RST | -> | |
+**Open Port:**
 
-Closed Port:
+| Client | Connection | Server  |
+| ------ | ---------- | ------- |
+| SYN    | ->         |         |
+|        | <-         | SYN-ACK |
+| RST    | ->         |         |
+
+**Closed Port:**
+
 | Client | Connection | Server |
 | ------ | ---------- | ------ |
-| SYN | -> | |
-| | <- | RST |
+| SYN    | ->         |        |
+|        | <-         | RST    |
 
 ### Connect/Vanilla Scan:
 
-Open Port:
-| Client | Connection | Server |
-| ------- | ---------- | ------- |
-| SYN | -> | |
-| | <- | SYN-ACK |
-| ACK-RST | -> | |
+**Open Port:**
 
-Closed Ports:
+| Client  | Connection | Server  |
+| ------- | ---------- | ------- |
+| SYN     | ->         |         |
+|         | <-         | SYN-ACK |
+| ACK-RST | ->         |         |
+
+**Closed Ports:**
+
 | Client | Connection | Server |
 | ------ | ---------- | ------ |
-| SYN | -> | |
-| | <- | RST |
+| SYN    | ->         |        |
+|        | <-         | RST    |
 
 ## UDP:
 
 ### UDP scan:
 
-Open Ports:
-| Client | Connection | Server |
-| ------ | ---------- | ------ |
-| UDP | -> | |
-| | <- | NO RESPONCE |
+**Open Ports:**
 
-Closed Ports:
-| Client | Connection | Server |
-| ------ | ---------- | ------ |
-| UDP | -> | |
-| | <- | ICMP Error |
+| Client | Connection | Server      |
+| ------ | ---------- | ----------- |
+| UDP    | ->         |             |
+|        | <-         | NO RESPONCE |
+
+**Closed Ports:**
+
+| Client | Connection | Server     |
+| ------ | ---------- | ---------- |
+| UDP    | ->         |            |
+|        | <-         | ICMP Error |
 
 ### ICMP scan:
 
 Open Ports:
-| Client | Connection | Server |
-| ------ | ---------- | ------ |
-| FIN | -> | |
-| | <- | NO RESPONCE |
+
+| Client | Connection | Server      |
+| ------ | ---------- | ----------- |
+| FIN    | ->         |             |
+|        | <-         | NO RESPONCE |
 
 Closed Ports:
+
 | Client | Connection | Server |
 | ------ | ---------- | ------ |
-| FIN | -> | |
-| | <- | RST |
+| FIN    | ->         |        |
+|        | <-         | RST    |
 
 ## Other Scans:
 

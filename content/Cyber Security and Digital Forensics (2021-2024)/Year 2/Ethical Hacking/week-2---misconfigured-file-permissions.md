@@ -9,8 +9,6 @@ categories: ""
 weight: 0
 ---
 
-# Permissions
-
 - Everything within Linux is a file
 
 - File permissions can cause unauthorized users access to the contents of files
